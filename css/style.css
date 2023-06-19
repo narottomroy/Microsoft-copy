@@ -1,0 +1,36 @@
+.home {
+    background-image: url('/photo/image1.avif');
+    height:600px;
+    width: 100%;
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.pride {
+    background: url('/photo/image7.avif');
+    background-repeat: none;
+    background-position: center center;
+    background-size: cover;
+    height: 600px;
+    width: auto;
+}
+
+.pride-text {
+    padding-left: 20px;
+    background: azure;
+}
+
+.end {
+    background: url('/photo/image11.avif');
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+    height: 500px;
+    width: auto;
+}
+
+.end-text {
+    background: #ffff;
+    padding-left: 20px;
+}
